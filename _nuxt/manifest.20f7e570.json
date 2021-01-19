@@ -1,0 +1,12 @@
+{
+  "name": "JPS自動ギャラリー",
+  "short_name": "shibusawa",
+  "description": "ジャパンサーチ利活用スキーマを用いたギャラリーの自動生成アプリです。",
+  "icons": [],
+  "start_url": "/repo/?standalone=true",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "lang": "ja",
+  "orientation": "portrait"
+}
