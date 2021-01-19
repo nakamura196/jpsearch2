@@ -3,7 +3,7 @@
   "short_name": "shibusawa",
   "description": "ジャパンサーチ利活用スキーマを用いたギャラリーの自動生成アプリです。",
   "icons": [],
-  "start_url": "/repo/?standalone=true",
+  "start_url": "/jpsearch2/?standalone=true",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#ffffff",
