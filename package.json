@@ -23,7 +23,7 @@
     "cross-env": "^7.0.2",
     "firebase": "^8.0.2",
     "firebase-admin": "^9.4.2",
-    "firebase-tools": "^8.16.2",
+    "firebase-tools": "^15.15.0",
     "fs": "^0.0.1-security",
     "instantsearch.css": "^7.4.5",
     "leaflet": "^1.7.1",
