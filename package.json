@@ -27,7 +27,7 @@
     "fs": "^0.0.1-security",
     "instantsearch.css": "^7.4.5",
     "leaflet": "^1.7.1",
-    "nuxt": "^2.14.6",
+    "nuxt": "^3.19.0",
     "nuxt-i18n": "^6.15.4",
     "nuxt-leaflet": "0.0.25",
     "nuxt-property-decorator": "^2.8.8",
